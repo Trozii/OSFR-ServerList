@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "My Public Server",
+    "Description": "Hosted by coleby esper",
+    "GatewayAddress": "your.ip.or.domain",
+    "GatewayPort": 20101,
+    "PatchBaseUrl": "",
+    "LogoUrl": "",
+    "HomepageUrl": "",
+    "DiscordUrl": ""
+  }
+]
