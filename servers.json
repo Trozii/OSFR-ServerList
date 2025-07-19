@@ -1,11 +1,6 @@
 [
   {
-    "Name": "Trozii Server",
-    "Description": "Hosted by Trozii",
-    "GatewayAddress": "72.176.56.204",
-    "GatewayPort": 20101,
-    "LogoUrl": "",
-    "HomepageUrl": "",
-    "DiscordUrl": ""
+    "name": "Trozii Server",
+    "url": "https://Trozii.github.io/OSFR-ServerList/servermanifest.xml"
   }
 ]
