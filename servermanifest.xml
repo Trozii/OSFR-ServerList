@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+  <name>Trozii Server</name>
+  <description>Your server description</description>
+  <ip>127.0.0.1</ip>
+  <port>1115</port>
+  <online>true</online>
+  <version>1.0</version>
+  <maxPlayers>100</maxPlayers>
+  <currentPlayers>0</currentPlayers>
+</server>
