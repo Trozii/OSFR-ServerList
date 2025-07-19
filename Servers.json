@@ -1,8 +1,8 @@
 [
   {
-    "Name": "My Public Server",
-    "Description": "Hosted by coleby esper",
-    "GatewayAddress": "your.ip.or.domain",
+    "Name": "Trozii Server",
+    "Description": "Hosted by Trozii",
+    "GatewayAddress": "123.45.67.89",
     "GatewayPort": 20101,
     "PatchBaseUrl": "",
     "LogoUrl": "",
