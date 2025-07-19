@@ -2,7 +2,7 @@
   {
     "Name": "Trozii Server",
     "Description": "Hosted by Trozii",
-    "GatewayAddress": "123.45.67.89",
+    "GatewayAddress": "72.176.56.204",
     "GatewayPort": 20101,
     "PatchBaseUrl": "",
     "LogoUrl": "",
