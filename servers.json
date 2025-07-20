@@ -4,9 +4,9 @@
     "Description": "Hosted by Trozii",
     "GatewayAddress": "72.176.56.204",
     "GatewayPort": 20101,
-    "PatchBaseUrl": "https://trozii.github.io/OSFR-ServerList/",
-    "LogoUrl": "https://trozii.github.io/OSFR-ServerList/logo.png",
-    "HomepageUrl": "https://trozii.github.io/OSFR-ServerList/",
+    "PatchBaseUrl": "http://72.176.56.204:20101/",
+    "LogoUrl": "",
+    "HomepageUrl": "",
     "DiscordUrl": ""
   }
 ]
